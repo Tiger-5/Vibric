@@ -1,0 +1,11 @@
+@font-face {
+    font-family: sf-pro-display-regular;
+    src: url(sf-pro-display/SFPRODISPLAYREGULAR.OTF);
+}
+
+
+body{
+    background-color: #c7c7c7;
+    font-family: sf-pro-display-regular;
+}
+
